@@ -1,1 +1,1 @@
-Various, chaotic notes on machine learning using Theano
+Various, chaotic notes on machine learning using Theano 
