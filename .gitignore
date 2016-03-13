@@ -1,1 +1,6 @@
 .ipynb_checkpoints/*
+fixme.py
+*.html
+*.pdf
+*.css
+*.pyc
