@@ -1,0 +1,450 @@
+Epoch 1 of 50 took 689.634s
+
+Reconstruted events: 63.40%
+	 within 1 planes: 8.500000%
+	 within 2 planes: 18.400000%
+	 within 3 planes: 14.300000%
+	 within 4 planes: 11.300000%
+	 within 5 planes: 10.900000%
+
+Epoch 2 of 50 took 691.840s
+
+Reconstruted events: 73.50%
+	 within 1 planes: 9.300000%
+	 within 2 planes: 19.900000%
+	 within 3 planes: 16.100000%
+	 within 4 planes: 16.400000%
+	 within 5 planes: 11.800000%
+
+Epoch 3 of 50 took 693.108s
+
+Reconstruted events: 76.90%
+	 within 1 planes: 12.400000%
+	 within 2 planes: 21.800000%
+	 within 3 planes: 18.000000%
+	 within 4 planes: 14.600000%
+	 within 5 planes: 10.100000%
+
+Epoch 4 of 50 took 693.916s
+
+Reconstruted events: 84.80%
+	 within 1 planes: 13.200000%
+	 within 2 planes: 26.000000%
+	 within 3 planes: 21.100000%
+	 within 4 planes: 15.400000%
+	 within 5 planes: 9.100000%
+
+Epoch 5 of 50 took 695.546s
+
+Reconstruted events: 89.00%
+	 within 1 planes: 15.200000%
+	 within 2 planes: 26.000000%
+	 within 3 planes: 22.600000%
+	 within 4 planes: 15.900000%
+	 within 5 planes: 9.300000%
+
+Epoch 6 of 50 took 692.848s
+
+Reconstruted events: 85.90%
+	 within 1 planes: 14.900000%
+	 within 2 planes: 25.800000%
+	 within 3 planes: 22.000000%
+	 within 4 planes: 14.700000%
+	 within 5 planes: 8.500000%
+
+Epoch 7 of 50 took 668.552s
+
+Reconstruted events: 87.40%
+	 within 1 planes: 16.400000%
+	 within 2 planes: 26.600000%
+	 within 3 planes: 19.200000%
+	 within 4 planes: 15.000000%
+	 within 5 planes: 10.200000%
+
+Epoch 8 of 50 took 687.345s
+
+Reconstruted events: 92.40%
+	 within 1 planes: 16.500000%
+	 within 2 planes: 32.600000%
+	 within 3 planes: 23.400000%
+	 within 4 planes: 12.000000%
+	 within 5 planes: 7.900000%
+
+Epoch 9 of 50 took 685.478s
+
+Reconstruted events: 91.90%
+	 within 1 planes: 17.200000%
+	 within 2 planes: 34.600000%
+	 within 3 planes: 19.700000%
+	 within 4 planes: 12.400000%
+	 within 5 planes: 8.000000%
+
+Epoch 10 of 50 took 690.622s
+
+Reconstruted events: 93.10%
+	 within 1 planes: 17.500000%
+	 within 2 planes: 35.400000%
+	 within 3 planes: 22.200000%
+	 within 4 planes: 13.300000%
+	 within 5 planes: 4.700000%
+
+Epoch 11 of 50 took 689.660s
+
+Reconstruted events: 94.50%
+	 within 1 planes: 21.500000%
+	 within 2 planes: 35.600000%
+	 within 3 planes: 21.500000%
+	 within 4 planes: 11.600000%
+	 within 5 planes: 4.300000%
+
+Epoch 12 of 50 took 688.792s
+
+Reconstruted events: 88.50%
+	 within 1 planes: 16.600000%
+	 within 2 planes: 26.300000%
+	 within 3 planes: 21.500000%
+	 within 4 planes: 14.600000%
+	 within 5 planes: 9.500000%
+
+Epoch 13 of 50 took 690.803s
+
+Reconstruted events: 91.30%
+	 within 1 planes: 18.900000%
+	 within 2 planes: 33.600000%
+	 within 3 planes: 19.500000%
+	 within 4 planes: 11.400000%
+	 within 5 planes: 7.900000%
+
+Epoch 14 of 50 took 673.742s
+
+Reconstruted events: 94.80%
+	 within 1 planes: 20.600000%
+	 within 2 planes: 33.500000%
+	 within 3 planes: 24.000000%
+	 within 4 planes: 11.600000%
+	 within 5 planes: 5.100000%
+
+Epoch 15 of 50 took 688.393s
+
+Reconstruted events: 95.30%
+	 within 1 planes: 21.900000%
+	 within 2 planes: 37.600000%
+	 within 3 planes: 22.400000%
+	 within 4 planes: 9.800000%
+	 within 5 planes: 3.600000%
+
+Epoch 16 of 50 took 688.226s
+
+Reconstruted events: 95.30%
+	 within 1 planes: 21.800000%
+	 within 2 planes: 37.800000%
+	 within 3 planes: 23.000000%
+	 within 4 planes: 8.800000%
+	 within 5 planes: 3.900000%
+
+Epoch 17 of 50 took 681.249s
+
+Reconstruted events: 87.80%
+	 within 1 planes: 16.200000%
+	 within 2 planes: 31.100000%
+	 within 3 planes: 17.500000%
+	 within 4 planes: 12.300000%
+	 within 5 planes: 10.700000%
+
+Epoch 18 of 50 took 681.232s
+
+Reconstruted events: 94.30%
+	 within 1 planes: 19.100000%
+	 within 2 planes: 34.800000%
+	 within 3 planes: 24.200000%
+	 within 4 planes: 11.300000%
+	 within 5 planes: 4.900000%
+
+Epoch 19 of 50 took 681.093s
+
+Reconstruted events: 94.90%
+	 within 1 planes: 22.600000%
+	 within 2 planes: 36.900000%
+	 within 3 planes: 18.800000%
+	 within 4 planes: 10.300000%
+	 within 5 planes: 6.300000%
+
+Epoch 20 of 50 took 681.577s
+
+Reconstruted events: 94.80%
+	 within 1 planes: 21.000000%
+	 within 2 planes: 35.400000%
+	 within 3 planes: 22.500000%
+	 within 4 planes: 11.700000%
+	 within 5 planes: 4.200000%
+
+Epoch 21 of 50 took 686.081s
+
+Reconstruted events: 95.30%
+	 within 1 planes: 20.500000%
+	 within 2 planes: 36.800000%
+	 within 3 planes: 26.600000%
+	 within 4 planes: 8.300000%
+	 within 5 planes: 3.100000%
+
+Epoch 22 of 50 took 675.810s
+
+Reconstruted events: 94.60%
+	 within 1 planes: 23.000000%
+	 within 2 planes: 34.400000%
+	 within 3 planes: 18.300000%
+	 within 4 planes: 12.500000%
+	 within 5 planes: 6.400000%
+
+Epoch 23 of 50 took 689.602s
+
+Reconstruted events: 94.20%
+	 within 1 planes: 18.800000%
+	 within 2 planes: 36.200000%
+	 within 3 planes: 23.600000%
+	 within 4 planes: 10.900000%
+	 within 5 planes: 4.700000%
+
+Epoch 24 of 50 took 690.094s
+
+Reconstruted events: 95.40%
+	 within 1 planes: 25.300000%
+	 within 2 planes: 37.600000%
+	 within 3 planes: 20.600000%
+	 within 4 planes: 8.800000%
+	 within 5 planes: 3.100000%
+
+Epoch 25 of 50 took 689.478s
+
+Reconstruted events: 95.70%
+	 within 1 planes: 25.900000%
+	 within 2 planes: 36.800000%
+	 within 3 planes: 22.100000%
+	 within 4 planes: 7.100000%
+	 within 5 planes: 3.800000%
+
+Epoch 26 of 50 took 689.400s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 27 of 50 took 690.414s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 28 of 50 took 689.396s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 29 of 50 took 674.009s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 30 of 50 took 709.533s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 31 of 50 took 712.995s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 32 of 50 took 710.610s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 33 of 50 took 710.006s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 34 of 50 took 709.010s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 35 of 50 took 707.378s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 36 of 50 took 686.590s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 37 of 50 took 676.709s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 38 of 50 took 687.469s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 39 of 50 took 686.430s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 40 of 50 took 686.089s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 41 of 50 took 687.096s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 42 of 50 took 686.740s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 43 of 50 took 692.115s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 44 of 50 took 671.030s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 45 of 50 took 689.608s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 46 of 50 took 689.595s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 47 of 50 took 687.666s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 48 of 50 took 681.416s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 49 of 50 took 681.709s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
+Epoch 50 of 50 took 681.652s
+
+Reconstruted events: 5.60%
+	 within 1 planes: 1.000000%
+	 within 2 planes: 1.200000%
+	 within 3 planes: 1.500000%
+	 within 4 planes: 1.200000%
+	 within 5 planes: 0.700000%
+
