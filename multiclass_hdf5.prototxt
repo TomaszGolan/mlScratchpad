@@ -1,0 +1,87 @@
+name: "multiclass_hdf5"
+
+layer {
+  name: "data_hdf5"
+  type: "HDF5Data"
+  include {
+    phase: TRAIN
+  }
+  hdf5_data_param {
+    source: "multiclass_caffe.hdf5.txt"
+    batch_size: 10
+  }
+  top: "data"
+  top: "label"
+}
+
+layer {
+  name: "data_hdf5"
+  type: "HDF5Data"
+  include {
+    phase: TEST
+  }
+  hdf5_data_param {
+    source: "multiclass_caffe_test.hdf5.txt"
+    batch_size: 10
+  }
+  top: "data"
+  top: "label"
+}
+
+layer {
+  name: "hidden_layer01"
+  type: "InnerProduct"
+  inner_product_param {
+    num_output: 6
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+  bottom: "data"
+  top: "hl01"
+}
+
+layer {
+  name: "relu01"
+  type: "ReLU"
+  bottom: "hl01"
+  top: "r01"
+}
+
+layer {
+  name: "hidden_layer02"
+  type: "InnerProduct"
+  inner_product_param {
+    num_output: 6
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+  bottom: "r01"
+  top: "hl02"
+}
+
+layer {
+  name: "accuracy"
+  type: "Accuracy"
+  bottom: "hl02"
+  bottom: "label"
+  top: "accuracy"
+  include {
+    phase: TEST
+  }
+
+}
+layer {
+  name: "loss"
+  type: "SoftmaxWithLoss"
+  bottom: "hl02"
+  bottom: "label"
+  top: "loss"
+}
